@@ -1,0 +1,19 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="40" fill="#0f0f1a"/>
+  <rect x="16" y="16" width="160" height="160" rx="32" fill="#16213e"/>
+
+  <!-- Thermometer body -->
+  <rect x="80" y="40" width="32" height="80" rx="16" fill="#1a1a2e" stroke="#2a2a4a" stroke-width="3"/>
+
+  <!-- Thermometer bulb -->
+  <circle cx="96" cy="130" r="24" fill="#1a1a2e" stroke="#2a2a4a" stroke-width="3"/>
+
+  <!-- Mercury -->
+  <rect x="86" y="70" width="20" height="50" rx="10" fill="#e94560"/>
+  <circle cx="96" cy="130" r="16" fill="#e94560"/>
+
+  <!-- Temperature marks -->
+  <rect x="116" y="50" width="12" height="2" fill="#4ecca3"/>
+  <rect x="116" y="70" width="12" height="2" fill="#ffc857"/>
+  <rect x="116" y="90" width="12" height="2" fill="#e94560"/>
+</svg>
